@@ -8,7 +8,7 @@
 **Veteriner klinikleri için geliştirilmiş, bulut tabanlı modern yönetim sistemi.**
 
 ***
-
+![VetSync Pro](assets/Arayuz.png)
 ## ✨ Özellikler
 
 | 🏥 Klinik Yönetimi | 📋 Kayıt Sistemi | 📊 Analitik |
